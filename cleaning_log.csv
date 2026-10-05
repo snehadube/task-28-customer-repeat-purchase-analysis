@@ -1,0 +1,11 @@
+,0
+raw_rows,541910
+missing_customer,135080
+cancel_rows,8905
+bad_qty_price,40
+dups,5192
+clean_rows,392693
+customers,4338
+orders,18532
+date_min,2010-12-01 08:26:00
+date_max,2011-12-09 12:50:00

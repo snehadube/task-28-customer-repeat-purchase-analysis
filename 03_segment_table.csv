@@ -1,0 +1,5 @@
+segment,customers,pct_customers,orders,revenue,pct_revenue,aov,avg_orders_per_cust
+1. One-time (1 order),1493,34.4,1493,613990.0,6.9,411.25,1.0
+2. Occasional (2-3),1343,31.0,3194,1386584.0,15.6,434.12,2.38
+3. Regular (4-9),1111,25.6,6191,2326351.0,26.2,375.76,5.57
+4. Loyal (10+),391,9.0,7654,4560302.0,51.3,595.81,19.58
